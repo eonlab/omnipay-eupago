@@ -1,5 +1,5 @@
 {
-    "name": "sergiodlopes/omnipay-eupago",
+    "name": "eonlab/omnipay-eupago",
     "type": "library",
     "description": "euPago integration in omnipay",
     "keywords": [

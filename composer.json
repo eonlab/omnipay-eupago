@@ -26,14 +26,14 @@
         "psr-4": { "Omnipay\\Eupago\\" : "src/" }
     },
     "require": {
-         "omnipay/common": "~3.0"
+         "omnipay/common": "^3"
     },
     "require-dev": {
-        "omnipay/tests": "~3.0"
+        "omnipay/tests": "^3"
     },
     "extra": {
         "branch-alias": {
-            "master": "3.0-dev"
+            "dev-master": "3.1.x-dev"
         }
     }
 }
